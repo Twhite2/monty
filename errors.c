@@ -28,7 +28,7 @@ free_data();
 break;
 
 case 17:
-fprintf(stderr, "L%d: can't print, stack empty\n", data.line_number);
+fprintf(stderr, "L%d: can't pint, stack empty\n", data.line_number);
 free_data();
 break;
 
