@@ -1,4 +1,4 @@
-#include "monty.c"
+#include "monty.h"
 /**
  * print_reverse - prints from the bottom to top
  * @stack: the pointer to the head
